@@ -1,21 +1,21 @@
 # Теоретические вопросы
-* [Понятие "О большое"](https://github.com/Alecto/javascript-tasks/blob/master/theory/1-big-o-notation.md#%D0%BE-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B5)
-* [DOM](https://github.com/Alecto/javascript-tasks/blob/master/theory/2-dom.md#%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-dom)
-* [Цикл событий](https://github.com/Alecto/javascript-tasks/blob/master/theory/3-event-loop.md#%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%86%D0%B8%D0%BA%D0%BB%D0%B0-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9)
-* [Замыкания](https://github.com/Alecto/javascript-tasks/blob/master/theory/4-closure.md#%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F)
-* [Прототипное наследование](https://github.com/Alecto/javascript-tasks/blob/master/theory/5-prototype.md#%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D0%BD%D0%BE%D0%B5-%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
-* [Как работает ключевое слово this](https://github.com/Alecto/javascript-tasks/blob/master/theory/6-this.md#%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D0%BE%D0%B5-%D1%81%D0%BB%D0%BE%D0%B2%D0%BE-this)
-* [Фазы события. Всплытие и перехват](https://github.com/Alecto/javascript-tasks/blob/master/theory/7-event-bubbling.md#%D1%84%D0%B0%D0%B7%D1%8B-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F-%D0%B2%D1%81%D0%BF%D0%BB%D1%8B%D1%82%D0%B8%D0%B5-%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%B2%D0%B0%D1%82)
-* [Способы обмена данными между клиентом и сервером. Основные сетевые протоколы](https://github.com/Alecto/javascript-tasks/blob/master/theory/8-client-server.md#%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-ajax)
-* [Что такое REST и почему эта технология популярна?](https://github.com/Alecto/javascript-tasks/blob/master/theory/9-rest.md#%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-rest)
-* [Медленный сайт, что делать?](https://github.com/Alecto/javascript-tasks/blob/master/theory/10-slow-site.md#%D0%BC%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%81%D0%B0%D0%B9%D1%82-%D1%87%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C)
-* [Какими фреймворками (библиотеками) вы пользовались? Достоинства / недостатки?](https://github.com/Alecto/javascript-tasks/blob/master/theory/11-frameworks.md#%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%D0%B8)
-* [Чему равно foo.x?](https://github.com/Alecto/javascript-tasks/blob/master/theory/12-what-is-foo.x.md#%D1%87%D0%B5%D0%BC%D1%83-%D1%80%D0%B0%D0%B2%D0%BD%D0%BE-foox)
-* [Что выведется в консоль? Объясните почему.](https://github.com/Alecto/javascript-tasks/blob/master/theory/13-what-will-be-in-console.md#%D1%87%D1%82%D0%BE-%D0%B2%D1%8B%D0%B2%D0%B5%D0%B4%D0%B5%D1%82%D1%81%D1%8F-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C-%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B8%D1%82%D0%B5-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83)
+* Понятие "О большое"
+* DOM
+* Цикл событий
+* Замыкания
+* Прототипное наследование
+* Как работает ключевое слово this
+* Фазы события. Всплытие и перехват
+* Способы обмена данными между клиентом и сервером. Основные сетевые протоколы
+* Что такое REST и почему эта технология популярна?
+* Медленный сайт, что делать?
+* Какими фреймворками (библиотеками) вы пользовались? Достоинства / недостатки?
+* Чему равно foo.x?
+* Что выведется в консоль? Объясните почему
 
 # Задачи с собеседований (FrontEnd)
 
-## [Легкие задачи](https://github.com/Alecto/javascript-tasks/tree/master/assets/js/ease)
+## Легкие задачи
 
 ### #1
 > Реализовать функцию isPrime(), которая возвращает true или false, указывая, является ли переданное ей число простым.
@@ -71,7 +71,7 @@
 ### #16
 > Объединить два массива с вложенностью [1, [1, 2, [3, 4]], [2, 4]].
 
-## [Средняя сложность](https://github.com/Alecto/javascript-tasks/tree/master/assets/js/middle)
+## Средняя сложность
 
 ### #1
 > Создать функцию, прибавляющую 10 к переданному ей числу. Использовать мемоизацию.
@@ -103,7 +103,7 @@
 ### #10
 > Реализоваьт функцию seq(), пользуясь тем же подходом, что и при работе над функцией reduceAsync(). Эта функция должна принимать массив функций, которые возвращают promise-объекты, и разрешать их один за другим.
 
-## [Высокая сложность](https://github.com/Alecto/javascript-tasks/tree/master/assets/js/hard)
+## Высокая сложность
 
 ### #1
 > Реализовать функцию permute(), которая возвращает массив строк, содержащий все пермутации заданной строки.
